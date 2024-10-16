@@ -23,3 +23,10 @@ You can install the required libraries using pip:
 ```bash
 pip install opencv-python pyzbar Pillow
 ```
+
+
+# OUTPUT
+
+![1729073966858](image/README/1729073966858.png)
+
+![1729074026405](image/README/1729074026405.png)
